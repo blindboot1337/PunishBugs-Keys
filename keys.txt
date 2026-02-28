@@ -17,7 +17,6 @@ PunishBugs-74VSuWcA-9698-XIO80
 PunishBugs-cypn2gmY-1455-O1qB6
 PunishBugs-epKUuPbf-4016-eT768
 PunishBugs-4OY4qZlq-0676-JR840
-PunishBugs-2GAGvK4x-7620-r07s3
 PunishBugs-CPBGr14O-6678-eyfG8
 PunishBugs-KipHFw6o-8066-fGJm1
 PunishBugs-ojZriELz-1868-fxN22
